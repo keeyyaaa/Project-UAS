@@ -115,12 +115,17 @@ Jika input menu tidak valid, program akan meminta pengguna memilih ulang.
 2. Pengguna memilih opsi:
    
 - Menambah data: Masukkan nama dan lagu favorit.
+
   
 - Menampilkan data: Melihat data yang telah dimasukkan.
   
 - Keluar: Mengakhiri program.
   
 Program akan terus berjalan hingga pengguna memilih opsi "Keluar".
+
+# Lampiran output program:
+
+![output project uas](https://github.com/user-attachments/assets/7e1e4e84-60ac-4be8-99de-ce4417f255b2)
 
 # Berikut link dokumentasi pembuatan program:
 
